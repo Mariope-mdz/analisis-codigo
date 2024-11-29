@@ -1,0 +1,4 @@
+sessionManagement:
+  method: cookieBasedSessionManagement
+authentication:
+  enabled: false
